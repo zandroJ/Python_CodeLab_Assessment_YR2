@@ -1,0 +1,1 @@
+print("Python uses \"interpreter\" to convert source code into machine code.\nInterpreter " "'translates'" " program one statement at a time.")
